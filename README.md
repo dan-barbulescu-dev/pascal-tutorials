@@ -10,7 +10,7 @@ is_prime.pas - The function tests if a number is prime by looking for possible d
 
 ## Pascal function that calculates the greatest common divisor of two numbers (using Euclid’s algorithm)
 
-gcd.pas - These functions calculate the greatest common divisor of two numbers, using’s Euclid’s Algorithm.
+gcd.pas - These functions calculate the greatest common divisor of two numbers, using [Euclid’s Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm).
 
 ## Pascal function that returns a power of 10
 
