@@ -1,4 +1,4 @@
-{ These functions calculate the greatest common divisor of two numbers, using’s Euclid’s Algorithm. }
+{ These functions calculate the greatest common divisor of two numbers, using Euclid’s Algorithm. }
 
 { Here is a simple to understand implementation of the algorithm (which as a downside takes longer to execute) }
 function gcd(x,y:longint):longint;
